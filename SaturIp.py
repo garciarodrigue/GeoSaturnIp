@@ -11,7 +11,7 @@ init()
 import json
 import requests
 #fin de importaciones
-
+os.system('pkg install mpv -y')
 #limpio consola
 os.system("clear")
 
